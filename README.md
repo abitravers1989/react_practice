@@ -1,3 +1,17 @@
+Made by following these tutorials: Not completed yet but had to stop to do other tech tests and interviews:
+
+
+https://www.youtube.com/watch?v=GIU8ekYndKw
+
+
+https://www.youtube.com/watch?v=A71aqufiNtQ&t=1283s
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
